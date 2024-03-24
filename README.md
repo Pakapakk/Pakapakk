@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my small kitchen 👋, My name is Pakapak Jungjaroen but you guys can simply call me "Pak"</h1>
+<h1 align="center">Greetings👋, My name is Pakapak Jungjaroen but you guys can simply call me "Pak"</h1>
 <h3 align="center">A devsecops / software engineer from Thailand</h3>
 
 <h3 align="left">Connect with me:</h3>
