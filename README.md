@@ -1,5 +1,5 @@
 <h1 align="center">Greetings👋, My name is Pakapak Jungjaroen but you guys can simply call me "Pak"</h1>
-<h3 align="center">A devsecops / software engineer from Thailand</h3>
+<h3 align="center">A Cybersecurity / Networking / Data / Software engineer from Thailand</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
